@@ -64,3 +64,4 @@ jobs:
           asset_path: ./bin/previewer-linux
           asset_name: previewer-linux
           asset_content_type: application/octet-stream
+
