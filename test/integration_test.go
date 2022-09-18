@@ -19,7 +19,7 @@ const (
 	proxyHost = "localhost"
 	proxyPort = 8081
 
-	//targetURL    = "http://localhost:8082/"
+	// targetURL    = "http://localhost:8082/"
 	targetURL    = "https://raw.githubusercontent.com/andrey-tushev/otus-go/project/project/images/www/"
 	badTargetURL = "http://localhost:6666/"
 

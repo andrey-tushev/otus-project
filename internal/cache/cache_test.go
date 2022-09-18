@@ -1,5 +1,6 @@
 package cache
 
+// nolint:gci
 import (
 	"testing"
 
