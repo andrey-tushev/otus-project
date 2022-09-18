@@ -12,11 +12,5 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-
       - name: Check out code
         uses: actions/checkout@v2
-
-      - name: Linters
-        uses: golangci/golangci-lint-action@v2
-        with:
-          version: v1.45.2
